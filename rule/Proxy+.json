@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "geoip": [
+        "GOOGLE"
+      ]
+    }
+  ],
+  "version": 2
+}
