@@ -1,8 +1,8 @@
 {
   "rules": [
     {
-      "domain": [
-        "lens.l.google.com"
+      "geoip": [
+        "GOOGLE"
       ]
     }
   ],
